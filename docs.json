@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Massive - Resources",
   "colors": {
     "primary": "#a8320d",
     "light": "#ca4a24",
     "dark": "#872100"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/favicon.ico",
   "navigation": {
     "tabs": [
       {
@@ -54,5 +54,6 @@
     "strict": true,
     "default": "dark"
   }
-}
+},
+"description": "Massive Documentation Hub"
 }
