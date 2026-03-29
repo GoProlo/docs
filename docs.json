@@ -24,16 +24,6 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Dashboard",
-          "href": "https://app.trymassive.ai",
-          "icon": "book-open-cover"
-        }
-      ]
-    }
-  },
   "logo": "/images/logo.png",
   "navbar": {
     "links": [
