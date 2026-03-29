@@ -25,5 +25,9 @@
     ]
   },
 "description": "Massive Documentation Hub",
-"logo": "/images/logo.png"
+"logo": "/images/logo.png",
+"appearance": {
+  "strict": false,
+  "default": "light"
+}
 }
