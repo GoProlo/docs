@@ -29,5 +29,13 @@
 "appearance": {
   "strict": false,
   "default": "light"
+},
+"navbar": {
+  "links": [
+    {
+      "label": "Dashboard",
+      "href": "https://app.trymassive.ai"
+    }
+  ]
 }
 }
