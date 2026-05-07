@@ -7,7 +7,10 @@
     "light": "#ca4a24",
     "dark": "#872100"
   },
-  "favicon": "/images/favicon.ico",
+  "favicon": {
+    "light": "/images/favicon.ico",
+    "dark": "/images/favicon.ico"
+  },
   "navigation": {
     "tabs": [
       {
@@ -25,7 +28,11 @@
     ]
   },
 "description": "Massive Documentation Hub",
-"logo": "/images/logo.png",
+"logo": {
+  "light": "/images/logo.png",
+  "dark": "/images/logo.png",
+  "href": "https://trymassive.ai"
+},
 "appearance": {
   "strict": false,
   "default": "light"
