@@ -15,14 +15,15 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
+        "pages": [
           {
             "group": "Getting started",
             "pages": [
               "index",
               "quickstart"
             ]
-          }
+          },
+          "how-to-invite-support-to-your-google-business-profile-as-a-manager"
         ]
       }
     ]
