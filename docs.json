@@ -16,6 +16,7 @@
       {
         "tab": "Guides",
         "pages": [
+          "index",
           {
             "group": "Resources",
             "pages": [
@@ -32,22 +33,22 @@
       }
     ]
   },
-"description": "Massive Documentation Hub",
-"logo": {
-  "light": "/images/logo.png",
-  "dark": "/images/logo.png",
-  "href": "https://trymassive.ai"
-},
-"appearance": {
-  "strict": false,
-  "default": "light"
-},
-"navbar": {
-  "links": [
-    {
-      "label": "Dashboard",
-      "href": "https://app.trymassive.ai"
-    }
-  ]
-}
+  "description": "Massive Documentation Hub",
+  "logo": {
+    "light": "/images/logo.png",
+    "dark": "/images/logo.png",
+    "href": "https://trymassive.ai"
+  },
+  "appearance": {
+    "strict": false,
+    "default": "light"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Dashboard",
+        "href": "https://app.trymassive.ai"
+      }
+    ]
+  }
 }
